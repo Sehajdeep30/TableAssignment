@@ -1,0 +1,64 @@
+.box {
+  width: 600px;
+}
+.col {
+  display: flex;
+  border-style: solid;  
+  border-width: 0.001px;
+}
+
+.row{
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  border-width: 0.001px;
+}
+
+.c1r1{
+  width: 150px;
+  height: 300px;
+}
+
+.c1r2{
+  width: 150px;
+  height: 200px;
+}
+
+.c1r3{
+  width: 150px;
+  height: 102px;  
+}
+
+.c2r1{
+  width: 350px;
+  height: 150px;
+}
+
+.c2r2{
+  width: 350px;
+  height: 75px;
+}
+
+.c2r4{
+  width: 350px;
+  height: 300px;
+}
+
+.c2r4c1{
+  width : 175px;
+  height : 100px
+}
+
+.c2r4c2{
+  width : 175px;
+  height: 300px
+}
+
+.c3r1{
+  width: 90px;
+  height: 400px;
+}
+.c3r1{
+  width: 90px;
+  height: 200px;
+}
